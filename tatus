@@ -1,0 +1,33 @@
+[33mcommit 80f58c963f675a23c17c621174e565cd4f1e5012[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Merge: 81ed856 a417f4f
+Author: choto123 <jonathan.toro236@gmail.com>
+Date:   Sat Apr 29 11:08:11 2023 -0500
+
+    NT11 crear proyecto piloto
+
+[33mcommit a417f4f9765551a1dfb762dd6f848387be5ae76a[m[33m ([m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8c23f62 d0e7998
+Author: Alejandro Restrepo Horta <94184382+AlejandroHorta@users.noreply.github.com>
+Date:   Sat Apr 29 11:03:55 2023 -0500
+
+    Merge pull request #4 from jotapeco988/freaturejpdd
+    
+    NT11 se crea clase Piloto
+
+[33mcommit 81ed856823edc820fa58563b07015ad58149ba08[m
+Author: choto123 <jonathan.toro236@gmail.com>
+Date:   Sat Apr 29 10:54:01 2023 -0500
+
+    N11 se crea clase piloto
+
+[33mcommit d0e7998e634e9d08d8e646b9aa4e72d3afd078cf[m
+Author: dicojo <diniercj@gmail.com>
+Date:   Sat Apr 29 10:51:49 2023 -0500
+
+    NT11 se crea clase Piloto
+
+[33mcommit 8c23f62bea59013cebf21b54ec61642781b5ca9d[m
+Author: Alejandro Restrepo Horta <94184382+AlejandroHorta@users.noreply.github.com>
+Date:   Sat Apr 29 10:47:10 2023 -0500
+
+    Initial commit
